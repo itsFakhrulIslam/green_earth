@@ -1,3 +1,4 @@
+import Footer from "./shared/Footer";
 import Navbar from "./shared/Navbar";
 
 function App() {
@@ -5,6 +6,7 @@ function App() {
     <>
       <Navbar />
       <h1>Hello green earth!</h1>
+      <Footer />
     </>
   );
 }
